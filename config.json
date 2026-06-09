@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-scraping-beautifulsoup",
+      "title": "Web Scraping with BeautifulSoup",
+      "description": "Learn to fetch and parse web pages using HTTP requests and BeautifulSoup to extract, transform, and save structured data from real websites.",
+      "path": "assignments/web-scraping-beautifulsoup",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
